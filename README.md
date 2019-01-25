@@ -1,0 +1,1 @@
+This project entails building the Google home page with pure HTML and CSS.  I am working to replicate they style and layout of this page.
